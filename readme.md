@@ -39,3 +39,5 @@ A React Native app for browsing meal categories, viewing detailed dish informati
 Feel free to open issues or submit pull requests to help improve this app.
 
 ---
+
+Enjoy exploring delicious meals!
